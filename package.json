@@ -1,0 +1,11 @@
+{
+  "name": "basic-serve",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/1195660830/BDG-back-end.git",
+  "author": "weikaidi <1195660830@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "hapi": "^18.1.0"
+  }
+}

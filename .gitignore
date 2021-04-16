@@ -1,0 +1,4 @@
+# / 表示 当前文件所在的目录
+
+# 忽略node_modules的所有目录及文件
+/node_modules/*
